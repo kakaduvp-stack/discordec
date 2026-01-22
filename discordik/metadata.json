@@ -1,0 +1,7 @@
+{
+  "name": "$mendeleevo$",
+  "description": "A fully functional Discord-inspired chat application featuring real-time messaging simulation, server navigation, and Gemini AI integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
